@@ -12,3 +12,6 @@ $ npm install
 ```sh 
 $ npm start
 ```
+Please make sure your Terminal can fit the grid of 25x25 to have the best experience 
+
+![alt text](https://github.com/BelalH/gameOfLife/blob/main/docs/Screenshot.png)
